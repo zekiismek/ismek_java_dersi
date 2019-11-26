@@ -1,4 +1,4 @@
-# IsmekHaftaici_Java
+# İsmek Java Dersi
 26.11.2019 tarihinde başladığımız Java Programlama 1 eğitiminin çalışma alanıdır.
 
 ## 1.hafta
