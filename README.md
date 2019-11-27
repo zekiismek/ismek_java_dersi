@@ -10,7 +10,14 @@
 - Github Kullanımı
 - Java Kurulumları (Eclipse IDE ve Java JDK)
 ### 27.11.2019 Çarşamba
+- Java Nedir, Java'nın Avantajları ?
+- Java'da kullanılabilecek IDE'ler ve Kod editörleri
 - Java Temellerine Başlangıç
+- Java Syntax
+- Java Projesi Oluşturma
+- Ekrana Yazı Yazma (Hello World !)
+- Değişken Kullanımı
+- Scanner Nesnesi Kullanımı
 
 ## 2.hafta
 ### 02.12.2019 Pazartesi
